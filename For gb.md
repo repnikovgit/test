@@ -11,8 +11,6 @@ Hello world
 - Блок 2
 
 
+images
 
 *Завершение проекта*
-
-
-wedfervfewgfgtrbetrg
