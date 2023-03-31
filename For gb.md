@@ -16,3 +16,4 @@ images
 *Завершение проекта*
 команда git push
 Проверка git push
+Проверка для git pull
