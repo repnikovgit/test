@@ -14,3 +14,4 @@ Hello world
 images
 
 *Завершение проекта*
+команда git push
