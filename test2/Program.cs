@@ -41,6 +41,7 @@ Console.WriteLine($"Работает: {isEmployed}");
 Console.WriteLine($"Имя: {name}  Возраст: {age}  Рост: {weight}м");
 */
 
+/*
 void FillArray(int[] collection)
 {
     int lenght = collection.Length;
@@ -51,3 +52,5 @@ void FillArray(int[] collection)
     index++;
     }
 }
+*/
+continue
