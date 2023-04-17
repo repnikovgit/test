@@ -1,6 +1,18 @@
 ﻿int random = new Random().Next(100,1000);
-Console.writeline(random);
+Console.WriteLine(random);
 
 int first = random / 100;
-int last = random % 10;
-Console.writeline($"{first}{second}");
+int second = random % 10;
+
+if (first > second);
+{ 
+    Console.Write(first);
+};
+
+else
+{
+     Console.Write(second);
+}
+
+
+// Console.WriteLine($"{first}{second}");
