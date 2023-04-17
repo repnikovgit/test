@@ -10,6 +10,7 @@ System.Console.WriteLine("Введите N: ");
 int s = int.Parse(Console.ReadLine());
 
 for (int i = -s; i <= s; i++) // (for от и до)
+// условие i от -s до i, которое меньше или равно s, тоесть все значения от -s до s
 
 {
 
