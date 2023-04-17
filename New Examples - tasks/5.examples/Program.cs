@@ -9,7 +9,7 @@ System.Console.WriteLine("Введите N: ");
 
 int s = int.Parse(Console.ReadLine());
 
-for (int i = -s; i <= s; i++)
+for (int i = -s; i <= s; i++) // (for от и до)
 
 {
 
