@@ -20,7 +20,7 @@ while (index < n)
 {
     if (array[index] == find)
     {
-        Console.Writeline(index);
+        Console.WriteLine(index);
     }
     index++;
 }
