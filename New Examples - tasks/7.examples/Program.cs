@@ -7,7 +7,7 @@ int second = random % 10;
 if (first > second);
 { 
     Console.Write(first);
-}
+};
 else
 {
      Console.Write(second);
