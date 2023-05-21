@@ -3,7 +3,7 @@ System.Console.WriteLine("Введите второе число: ");
 string s = Console.ReadLine();
 string d = Console.ReadLine();
 int i = int.Parse(s);
-int j = int.Parse(s);
+int j = int.Parse(d);
 
 if (i == Math.Pow(j,2)){
     System.Console.WriteLine("good");
