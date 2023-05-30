@@ -2,7 +2,7 @@
 645 -> 5
 78 -> третьей цифры нет
 32679 -> 6 */
-
+/*
 System.Console.WriteLine("Введите N: ");
 int num = new Random().Next(10, 100000);
 int num = int.Parse(Console.ReadLine());
@@ -36,3 +36,21 @@ if (s < 100)
 
 
 //Console.WriteLine($"{num} -> {num/100}{num%10}");
+
+Console.WriteLine("Введите число: ");
+int a = int.Parse(Console.ReadLine());
+
+if (a < 100)
+{
+Console.WriteLine("3 цифры нет");
+return;
+}
+
+while(a>999)
+{
+a = a / 10;
+}
+
+a = a % 10;
+
+Console.WriteLine($"3-я цифра числа равна {a}" );
